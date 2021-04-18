@@ -1,0 +1,14 @@
+Model Outputs: 
+
+1. Logistic Regressor: 
+   Mean Squared Error : 0.11200631911532385
+   Accuracy Score : 0.8879936808846761
+   
+2. Decision Tree Classifier: 
+   Mean Squared Error : 0.11058451816745656
+   Accuracy Score : 0.8894154818325435
+   
+3. Random Forest Classifier: 
+   Mean Squared Error : 0.09289099526066351
+   Accuracy Score : 0.9071090047393365   
+   
